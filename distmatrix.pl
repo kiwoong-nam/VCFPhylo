@@ -5,8 +5,8 @@ my $distF=shift;
 my $output=shift;
 my $B=shift;
 
-my $bg_output=$output.'bg.tre';
-my $boot_output=$output.'boot.tre';
+my $bg_output=$output.'bg.tbl';
+my $boot_output=$output.'boot.tbl';
 
 my @names;
 my $nsamples;
