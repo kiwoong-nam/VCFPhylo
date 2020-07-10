@@ -34,3 +34,4 @@ http://evolution.genetics.washington.edu/phylip/
 
 Citation
 Please cite this paper if you use these script:
+https://www.biorxiv.org/content/10.1101/2020.06.17.154880v1
